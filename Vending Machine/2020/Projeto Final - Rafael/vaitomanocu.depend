@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1588600338 source:c:\users\rafas\onedrive\documentos\ripi7\embarcados\vending machine\final\fodaseavidafodaseachuvanoisehnoia\vaitomanocu\atuadores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1588600402 source:c:\users\rafas\onedrive\documentos\ripi7\embarcados\vending machine\final\fodaseavidafodaseachuvanoisehnoia\vaitomanocu\contadordinheiro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"dbproduto.h"
+	"definicoes_sistema.h"
+	"contadordinheiro.h"
+
+1588522150 c:\users\rafas\onedrive\documentos\ripi7\embarcados\vending machine\final\fodaseavidafodaseachuvanoisehnoia\vaitomanocu\definicoes_sistema.h
+
+1588535623 c:\users\rafas\onedrive\documentos\ripi7\embarcados\vending machine\final\fodaseavidafodaseachuvanoisehnoia\vaitomanocu\contadordinheiro.h
+
+1588600497 source:c:\users\rafas\onedrive\documentos\ripi7\embarcados\vending machine\final\fodaseavidafodaseachuvanoisehnoia\vaitomanocu\dbproduto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"definicoes_sistema.h"
+	"dbproduto.h"
+
+1588541853 c:\users\rafas\onedrive\documentos\ripi7\embarcados\vending machine\final\fodaseavidafodaseachuvanoisehnoia\vaitomanocu\dbproduto.h
+
+1588614657 source:c:\users\rafas\onedrive\documentos\ripi7\embarcados\vending machine\final\fodaseavidafodaseachuvanoisehnoia\vaitomanocu\dbtroco.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"definicoes_sistema.h"
+	"contadordinheiro.h"
+	"dbproduto.h"
+	"dbtroco.h"
+
+1588543614 c:\users\rafas\onedrive\documentos\ripi7\embarcados\vending machine\final\fodaseavidafodaseachuvanoisehnoia\vaitomanocu\dbtroco.h
+
+1587765375 source:c:\users\rafas\onedrive\documentos\ripi7\embarcados\vending machine\final\fodaseavidafodaseachuvanoisehnoia\vaitomanocu\gerenciador_de_modos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"definicoes_sistema.h"
+
+1588615195 source:c:\users\rafas\onedrive\documentos\ripi7\embarcados\vending machine\final\fodaseavidafodaseachuvanoisehnoia\vaitomanocu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"atuadores.h"
+	"dbtroco.h"
+	"definicoes_sistema.h"
+	"tela.h"
+	"gerenciador_de_modos.h"
+	"contadordinheiro.h"
+	"dbproduto.h"
+	"teclado.h"
+
+1588543506 c:\users\rafas\onedrive\documentos\ripi7\embarcados\vending machine\final\fodaseavidafodaseachuvanoisehnoia\vaitomanocu\atuadores.h
+
+1588542962 c:\users\rafas\onedrive\documentos\ripi7\embarcados\vending machine\final\fodaseavidafodaseachuvanoisehnoia\vaitomanocu\tela.h
+
+1587759497 c:\users\rafas\onedrive\documentos\ripi7\embarcados\vending machine\final\fodaseavidafodaseachuvanoisehnoia\vaitomanocu\gerenciador_de_modos.h
+
+1588542643 c:\users\rafas\onedrive\documentos\ripi7\embarcados\vending machine\final\fodaseavidafodaseachuvanoisehnoia\vaitomanocu\teclado.h
+
+1588600706 source:c:\users\rafas\onedrive\documentos\ripi7\embarcados\vending machine\final\fodaseavidafodaseachuvanoisehnoia\vaitomanocu\teclado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"definicoes_sistema.h"
+	"teclado.h"
+
+1588616107 source:c:\users\rafas\onedrive\documentos\ripi7\embarcados\vending machine\final\fodaseavidafodaseachuvanoisehnoia\vaitomanocu\tela.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"definicoes_sistema.h"
+	"contadordinheiro.h"
+	"dbproduto.h"
+	"tela.h"
+
