@@ -1,0 +1,182 @@
+# depslib dependency file v1.0
+1365999637 source:c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\main.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"comunicacao.h"
+	"ihm.h"
+	"senhas.h"
+	"sensores.h"
+	"sirene.h"
+	"timer.h"
+	"zonas.h"
+
+1365995635 source:c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\comunicacao.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"comunicacao.h"
+
+1365991420 c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\comunicacao.h
+
+1365998584 source:c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\ihm.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"ihm.h"
+
+1365998425 c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\ihm.h
+
+1365995569 c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\definicoes_sistema.h
+
+1365991420 c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\sensores.h
+
+1365991625 c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\sirene.h
+
+1365999144 c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\timer.h
+
+1365991420 c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\zonas.h
+
+1365995635 source:c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\senhas.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"senhas.h"
+
+1365994940 c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\senhas.h
+
+1365995635 source:c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\sensores.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"sensores.h"
+
+1365995635 source:c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\sirene.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"sirene.h"
+
+1365999416 source:c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\timer.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"definicoes_sistema.h"
+	"timer.h"
+
+1365995635 source:c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\zonas.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"zonas.h"
+
+1584918939 source:c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\comunicacao.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"comunicacao.h"
+
+1588736018 c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\definicoes_sistema.h
+
+1584918939 c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\comunicacao.h
+
+1584918939 source:c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\ihm.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"ihm.h"
+
+1584918939 c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\ihm.h
+
+1584918939 source:c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\senhas.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"senhas.h"
+
+1584918939 c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\senhas.h
+
+1584918939 source:c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\sensores.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"sensores.h"
+
+1584918940 c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\sensores.h
+
+1584918940 source:c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\sirene.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"sirene.h"
+
+1584918940 c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\sirene.h
+
+1584918940 source:c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\timer.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"definicoes_sistema.h"
+	"timer.h"
+
+1584918940 c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\timer.h
+
+1584918940 source:c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\zonas.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"zonas.h"
+
+1584918940 c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\zonas.h
+
+1588735396 source:c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\display.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"display.h"
+
+1588739084 c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\display.h
+
+1588741582 source:c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\coletor_dinheiro.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"coletor_dinheiro.h"
+
+1588738922 c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\coletor_dinheiro.h
+
+1588741626 source:c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\teclado_produtos.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"teclado_produtos.h"
+
+1588715999 c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\teclado_produtos.h
+
+1588741991 source:c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"display.h"
+	"coletor_dinheiro.h"
+	"teclado_produtos.h"
+	"cofre.h"
+	"descarga_produto.h"
+
+1588735203 source:c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\descarga_produto.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"descarga_produto.h"
+
+1588733097 c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\descarga_produto.h
+
+1588742046 source:c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\cofre.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"cofre.h"
+	"display.h"
+
+1588731864 c:\users\gustavo rubo\poli\pmr3402 - embarcados\vending_final\cofre.h
+
